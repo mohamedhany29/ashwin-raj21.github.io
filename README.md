@@ -15,7 +15,7 @@
 ### 🚀 Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://ashwin-raj21.github.io/" target="_blank"><img src="assets\img\Background\preview.png">
+    <a href="https://ashwin-raj21.github.io/" target="_blank"><img src="assets\img\Background\B) Profile_BG_05.png">
   </a>
   </kbd>
 </p>
